@@ -16,29 +16,35 @@ This project provides an easy-to-use interface for selecting a contact list and 
 
 ## 🏗 Project Structure
 
+
 📂 upload-contacts │── 📂 src │ ├── 📄 index.html # Main UI │ ├── 📄 styles.css # Custom Styling │── 📂 server │ ├── 📄 server.js # Node.js Backend (File Upload Handler) │── 📄 .gitignore # Ignores unnecessary files (e.g., node_modules) │── 📄 README.md # Project Documentation
 
 
 ---
-
 ## 🚀 Setup & Installation
 
  1️⃣ Clone the Repository
-```sh
-git clone https://github.com/your-username/upload-contacts.git
+ 
+git clone https://github.com/jaysangil/upload-contacts.git
+
 cd upload-contacts
 
 2️⃣ Install Dependencies
-``` bash
+bash
+
 npm install
 
 3️⃣ Start the Server
-```sh
+sh
+
 node server.js
 
 4️⃣ Open the Web App
+
 http://localhost:8080
 
+```
+```
 ---
 🛠 Tech Stack
 Frontend: HTML, CSS, JavaScript (jQuery), Bootstrap 4
@@ -47,10 +53,13 @@ API: Genesys Cloud Contact List Import API
 
 ---
 📜 License
+
 This project is open-source under the MIT License.
 
 ---
 📧 Contact
+
 For any issues or suggestions, feel free to reach out!
 
 📌 GitHub: jaysangil
+
